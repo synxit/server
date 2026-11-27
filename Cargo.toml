@@ -1,0 +1,8 @@
+[package]
+name = "synxit-server"
+version = "0.0.0"
+edition = "2024"
+license = "MIT"
+description = "placeholder for the synxit project"
+
+[dependencies]
